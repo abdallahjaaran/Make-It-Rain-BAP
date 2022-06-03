@@ -1,0 +1,1 @@
+Naam, Beschrijving, Foto van de product, Prijs, Voorraad, Gegevens.
